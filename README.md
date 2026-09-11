@@ -7,14 +7,14 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&width=680&lines=Java+%26+Spring+Boot+Developer;Full-Stack+Developer+%7C+Angular+%2B+Flutter;Cybersecurity+%26+Enterprise+AI+Enthusiast;Always+learning%2C+always+building." alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=800&color=00B4D8&center=true&vCenter=true&width=680&lines=Java+%26+Spring+Boot+Developer;Full-Stack+Developer+%7C+Angular+%2B;Enterprise+AI+Enthusiast;Always+learning%2C+always+building." alt="Subtitle" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gutta%20Siri%20Chandana-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guttasirichandana/)
-[![GitHub](https://img.shields.io/badge/GitHub-GUTTASIRICHANDANA-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/GUTTASIRICHANDANA)
-[![Gmail](https://img.shields.io/badge/Gmail-sirichandana.gutta-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:sirichandana.gutta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Awate%20Ravindra%20Awate?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prajwal-ravindra-awate/)
+[![GitHub](https://img.shields.io/badge/GitHub-prajwalawate45?style=flat-square\&logo=github\&logoColor=white)](https://github.com/prajwalawate45)
+[![Gmail](https://img.shields.io/badge/Gmail-sirichandana.gutta-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:prajwalawate45@gmail.com)
 
 <br/>
 
@@ -27,18 +27,17 @@
 ## About
 
 ```java
-class SiriChandana {
+class PrajwalAwate {
 
-    String location = "Andhra Pradesh, India";
-    String education = "B.Tech CSE @ K L University (2023–2026)";
+    String location = "Nagpur, Maharashtra, India";
+    String education = "B.Tech CSE(Data Science) @Shri Ramdeobaba College of Engineering and Management Nagpur (2022–2026)";
     String role = "Associate Consultant @ Intellect Design Arena";
     String focus[] = {
         "Java",
         "Spring Boot",
         "Angular",
-        "Flutter",
         "Full-Stack Development",
-        "Cybersecurity",
+        "Data Science",
         "Enterprise AI"
     };
 
@@ -46,7 +45,7 @@ class SiriChandana {
 }
 ```
 
-Computer Science and Engineering graduate with hands-on experience in **Java, Spring Boot, Angular, Flutter, MySQL, and REST APIs**. Interested in building scalable full-stack applications, enterprise software, cybersecurity solutions, and AI-powered applications.
+Computer Science and Engineering graduate with hands-on experience in **Java, Spring Boot, Angular, Flutter, MySQL, and REST APIs**. Interested in building scalable full-stack applications, enterprise software, and AI-powered applications.
 
 ---
 
@@ -80,7 +79,6 @@ Computer Science and Engineering graduate with hands-on experience in **Java, Sp
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
 **Backend**
@@ -104,10 +102,6 @@ Computer Science and Engineering graduate with hands-on experience in **Java, Sp
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square\&logo=eclipseide\&logoColor=white)
 
-**Cybersecurity**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square\&logo=wireshark\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
 
 </div>
 
@@ -152,9 +146,9 @@ Integrated <b>Google Gemini AI</b> for bill and receipt scanning to extract merc
 
 <td width="50%" valign="top">
 
-<h3 align="center">K-COMM</h3>
+<h3 align="center">CodeSync</h3>
 
-<p align="center"><em>Campus Communication Platform</em></p>
+<p align="center"><em>Remote Interview Platform</em></p>
 
 <p align="center">
 
